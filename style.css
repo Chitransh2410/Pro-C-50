@@ -1,0 +1,25 @@
+ 
+    .bodyimg{
+        justify-content: flex-start;
+    }
+ 
+ h3{
+        color: red;
+    }
+
+    h1{
+        color: salmon;
+    }
+
+
+    .header{
+        background-color: blueviolet;
+        display:flex;
+        justify-content: space-between;
+    }
+    
+    .grid{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
